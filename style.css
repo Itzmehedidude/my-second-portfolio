@@ -1,0 +1,114 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(images/header-bg.png);
+    height: 1073px;
+    display: flex;
+    margin-top: 100px;
+}
+ .half-width{
+    width: 40%;
+    margin: 2%;
+
+ }
+ .half-width img{
+    width: 100%;
+ }
+ .half-width p{
+    font-size: 20px;
+ }
+ .hello{
+    font-size: 55px;
+ }
+ .name{
+    font-size: 65px;
+    color: rgb(207, 25, 86);
+ }
+ .text-area{
+    margin-left: 25%;
+    margin-top: 25%;
+
+ }
+ button{
+    padding: 15px 55px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(red, purple);
+    color: white;
+    font-size: 25px;
+ }
+ .biography{
+    background-image: url(images/biography-bg.png);
+    display: flex;
+    padding-top: 100px;
+ }
+ .bioimg{
+    margin-left: 15%;
+ }
+ .latest-work{
+    background-image: url(images/latest-work-bg.png);
+    height: 800px;
+    padding-top: 120px;
+ }
+ .work-block{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    margin: 20px;
+ }
+ .fimg{
+    margin: 1%;
+ }
+ .fheader{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+ }
+ h1{
+    background: linear-gradient(red,blue);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+ }
+ .footer{
+    background-image: url(images/footer-bg.png);
+    height: 1000px;
+ }
+ .ftext{
+    text-align: center;
+ }
+ .parent{
+    display: flex;
+    justify-content: center;
+ }
+ .fdiv{
+    border-radius: 10px;
+    background-color: rgb(240, 82, 158);
+   text-align: center;
+    width: 50%;
+    height: 220px;
+ }
+ #client{
+    text-align: center;
+ }
+ .h3{
+    margin-top: 4%;
+    color: white;
+ }
+ .mail{
+    margin-top: 2%;
+    font-size: 40px;
+    color: white;
+ }
+ footer{
+    text-align:center
+ }
+ .ceo{
+    color: grey;
+ }
+ .para{
+    font-size: 25px;
+    font-weight: 400;
+ }
